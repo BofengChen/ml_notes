@@ -1,6 +1,9 @@
 # maching_learning_notes
+
 自己学习机器学习过程中所做的笔记
+
 邮箱：chenbf2011@gmail.com，欢迎小伙伴找我交流
+
 作者：chenbofeng
 
 

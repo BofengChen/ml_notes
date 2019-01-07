@@ -1,7 +1,5 @@
 # 机器学习笔记
 
-自己学习机器学习过程中所做的笔记
-
 邮箱：chenbf2011@gmail.com，欢迎小伙伴找我交流
 
 作者：chenbofeng
@@ -20,9 +18,9 @@
 
 笔记内容使用 'ipython notebook' 来展示。
 
-安装好 'Python' 和相应的包之后，可以在命令行下输入：
+安装好 `Python` 和相应的包之后，可以在命令行下输入：
 
-'$ ipython notebook'
-来进入 'ipython notebook'。
+`$ ipython notebook`
+来进入 `ipython notebook`。
 
 ## 目录

@@ -24,3 +24,4 @@
 来进入 `ipython notebook`。
 
 ## 目录
+[CH0_数学公式.ipynb](https://github.com/BofengChen/ml_notes/blob/master/CH0_%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F.ipynb)

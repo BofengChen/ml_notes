@@ -22,6 +22,7 @@
 
 `$ ipython notebook`
 来进入 `ipython notebook`。
+
 建议安装 [nbextensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html#enabling-disabling-extensions)，可以为每个章节增加目录以及其他功能，提高交互体验。
 
 ## 目录

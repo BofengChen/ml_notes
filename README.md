@@ -22,6 +22,7 @@
 
 `$ ipython notebook`
 来进入 `ipython notebook`。
+建议安装 [nbextensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html#enabling-disabling-extensions)来进行阅读，可以为每个章节增加目录，提高交互体验。
 
 ## 目录
 * [CH0_数学公式.ipynb](https://github.com/BofengChen/ml_notes/blob/master/CH0_%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F.ipynb)

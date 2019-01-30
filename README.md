@@ -36,3 +36,5 @@
 * [CH7_朴素贝叶斯分类器.ipynb](https://github.com/BofengChen/ml_notes/blob/master/CH7_%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8.ipynb)
 * [CH8_集成学习.ipynb](https://github.com/BofengChen/ml_notes/blob/master/CH8_%E9%9B%86%E6%88%90%E5%AD%A6%E4%B9%A0.ipynb)
 * [CH9_聚类.ipynb](https://github.com/BofengChen/ml_notes/blob/master/CH9_%E8%81%9A%E7%B1%BB.ipynb)
+* [CH10_KNN.ipynb](https://github.com/BofengChen/ml_notes/blob/master/CH10_KNN.ipynb)
+* [CH11_降维与度量学习.ipynb](https://github.com/BofengChen/ml_notes/blob/master/CH11_%E9%99%8D%E7%BB%B4%E4%B8%8E%E5%BA%A6%E9%87%8F%E5%AD%A6%E4%B9%A0.ipynb)

@@ -35,3 +35,4 @@
 * [CH6_决策树.ipynb](https://github.com/BofengChen/ml_notes/blob/master/CH6_%E5%86%B3%E7%AD%96%E6%A0%91.ipynb)
 * [CH7_朴素贝叶斯分类器.ipynb](https://github.com/BofengChen/ml_notes/blob/master/CH7_%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8.ipynb)
 * [CH8_集成学习.ipynb](https://github.com/BofengChen/ml_notes/blob/master/CH8_%E9%9B%86%E6%88%90%E5%AD%A6%E4%B9%A0.ipynb)
+* [CH9_聚类.ipynb](https://github.com/BofengChen/ml_notes/blob/master/CH9_%E8%81%9A%E7%B1%BB.ipynb)

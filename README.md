@@ -7,14 +7,14 @@
 
 ## 简介
 
-里面的代码和脚本主要来自：
+里面的代码主要来自：
 
 * [《scikit-learn:机器学习》](http://www.hzcourse.com/web/refbook/detail/7641/226)
 * [《机器学习实战：基于Scikit-Learn和TensorFlow》](https://github.com/ageron/handson-ml)
 
 默认使用 `python-2.7`，以及一些常用的安装包： `ipython， numpy， scipy，pandas, sklearn...`
 
-笔记内容使用 'ipython notebook' 来展示。
+笔记内容使用 `ipython notebook` 来展示。
 
 安装好 `Python` 和相应的包之后，可以在命令行下输入：
 

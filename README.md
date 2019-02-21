@@ -7,14 +7,14 @@
 
 ## 简介
 
-里面的代码和脚本主要来自：
+里面的代码主要来自：
 
 * [《scikit-learn:机器学习》](http://www.hzcourse.com/web/refbook/detail/7641/226)
 * [《机器学习实战：基于Scikit-Learn和TensorFlow》](https://github.com/ageron/handson-ml)
 
 默认使用 `python-2.7`，以及一些常用的安装包： `ipython， numpy， scipy，pandas, sklearn...`
 
-笔记内容使用 'ipython notebook' 来展示。
+笔记内容使用 `ipython notebook` 来展示。
 
 安装好 `Python` 和相应的包之后，可以在命令行下输入：
 
@@ -36,3 +36,4 @@
 * [CH9_聚类.ipynb](https://github.com/BofengChen/ml_notes/blob/master/CH9_%E8%81%9A%E7%B1%BB.ipynb)
 * [CH10_KNN.ipynb](https://github.com/BofengChen/ml_notes/blob/master/CH10_KNN.ipynb)
 * [CH11_降维与度量学习.ipynb](https://github.com/BofengChen/ml_notes/blob/master/CH11_%E9%99%8D%E7%BB%B4%E4%B8%8E%E5%BA%A6%E9%87%8F%E5%AD%A6%E4%B9%A0.ipynb)
+* [CH12_特征选择与稀疏学习.ipynb](https://github.com/BofengChen/ml_notes/blob/master/CH12_%E7%89%B9%E5%BE%81%E9%80%89%E6%8B%A9%E4%B8%8E%E7%A8%80%E7%96%8F%E5%AD%A6%E4%B9%A0.ipynb)
